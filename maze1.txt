@@ -1,4 +1,4 @@
-#Other maze option.
+Other maze option.
 
 maze = [
     ["#", "#", "O", "#", "#", "#", "#", "#", "#"],
