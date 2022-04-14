@@ -1,4 +1,7 @@
-Second maze option. 13x18
+Maze Option 2
+
+Rows: 18
+Columns: 13
 
 maze = [
     ["#", "#", "O", "#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
