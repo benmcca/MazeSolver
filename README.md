@@ -12,4 +12,4 @@ To run this file, pip install windows-curses
 The program is flexible to whatever maze is set at the beginning. So feel free to modify it however you would like!
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://onedrive.live.com/?cid=C41BA24CA4EFD4A7&id=c41ba24ca4efd4a7%214171&parId=c41ba24ca4efd4a7%21172&o=OneUp)
