@@ -10,3 +10,6 @@ Using queues enabled me to create a method that would solve the maze. The queue 
 
 To run this file, pip install windows-curses
 The program is flexible to whatever maze is set at the beginning. So feel free to modify it however you would like!
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
